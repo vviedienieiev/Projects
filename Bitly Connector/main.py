@@ -2,7 +2,7 @@ import requests
 
 class bitly:
     def __init__(self):
-        self.access_token = 'bb31e6a992ab258682a80176c007f3a1ccc6d7ad'
+        self.access_token = 'token'
         self.header = {
             "Authorization": "{}".format(self.access_token),
             "Content-Type": "application/json"
