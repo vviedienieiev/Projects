@@ -10,12 +10,12 @@ CONFIG = {"KEY_FILE_LOCATION":'FILE PATH',
 def main():
     df = [[1,2],[3,4]]
     Sheets_actions = {
-            'Action_1': {'spreadsheetId': '129NJOwlFKdworLrO6dxvzVJeKq74G6BFLzl8qrChceQ',
+            'Action_1': {'spreadsheetId': 'GS_id_1',
                          'range1': "Sheet1!A1:B2",
                          'data': df},
-            # 'Action_2': {'spreadsheetId': 'GS_id_2',
-            #                'range1': "Sheet1!A1:B2",
-            #                'data': df},
+            'Action_2': {'spreadsheetId': 'GS_id_2',
+                           'range1': "Sheet1!A1:B2",
+                           'data': df},
         }
 
     sheets = google_sheets()
