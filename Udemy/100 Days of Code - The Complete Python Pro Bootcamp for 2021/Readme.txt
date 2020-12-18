@@ -15,3 +15,4 @@ Day 10 - Calculator
 Day 11 - Blackjack
 Day 12 - Guess number
 Day 13 - Debug
+Day 14 - High or low
