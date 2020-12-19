@@ -17,3 +17,4 @@ Day 12 - Guess number
 Day 13 - Debug
 Day 14 - High or low
 Day 15 - Coffee machine - procedural
+Day 16 - Coffee machine - OOP
