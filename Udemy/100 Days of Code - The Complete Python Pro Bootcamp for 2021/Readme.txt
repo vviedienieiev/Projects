@@ -21,3 +21,4 @@ Day 16 - Coffee machine - OOP
 Day 17 - Quiz Brain
 Day 18 - Turtle challenge and drawing dots
 Day 19 - Turtle challenge v2
+Day 20 - Snake base
