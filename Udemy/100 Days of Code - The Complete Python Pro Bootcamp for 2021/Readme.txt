@@ -22,3 +22,5 @@ Day 17 - Quiz Brain
 Day 18 - Turtle challenge and drawing dots
 Day 19 - Turtle challenge v2
 Day 20-21 - Snake game
+Day 22 - Ping Pong
+Day 23 - Turtle Race
