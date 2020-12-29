@@ -24,3 +24,7 @@ Day 19 - Turtle challenge v2
 Day 20-21 - Snake game
 Day 22 - Ping Pong
 Day 23 - Turtle Race
+Day 24 - Snake with higest score using open()
+Day 25 - US states game
+Day 26 - Phonetic Alpabet usin comprehensions
+Day 27 - Miles to KM converter. Tkinter, *args, **kwargs
