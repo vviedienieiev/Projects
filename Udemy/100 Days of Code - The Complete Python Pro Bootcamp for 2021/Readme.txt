@@ -28,3 +28,4 @@ Day 24 - Snake with higest score using open()
 Day 25 - US states game
 Day 26 - Phonetic Alpabet usin comprehensions
 Day 27 - Miles to KM converter. Tkinter, *args, **kwargs
+Day 28 - Timer
