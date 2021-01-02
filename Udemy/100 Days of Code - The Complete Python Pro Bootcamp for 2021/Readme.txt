@@ -26,7 +26,8 @@ Day 22 - Ping Pong
 Day 23 - Turtle Race
 Day 24 - Snake with higest score using open()
 Day 25 - US states game
-Day 26 - Phonetic Alpabet usin comprehensions
+Day 26 - Phonetic Alphabet usin comprehensions
 Day 27 - Miles to KM converter. Tkinter, *args, **kwargs
 Day 28 - Timer
 Day 29 - Password manager
+Day 30 - Errors handling. Improving the phonetic alphabet and password manager
