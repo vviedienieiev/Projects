@@ -31,3 +31,7 @@ Day 27 - Miles to KM converter. Tkinter, *args, **kwargs
 Day 28 - Timer
 Day 29 - Password manager
 Day 30 - Errors handling. Improving the phonetic alphabet and password manager
+Day 31 - Flash Card
+Day 32 - Send email with smtplib
+Day 33 - ISS overhead notifier using API endpoints
+Day 34 - Update flash card using API
